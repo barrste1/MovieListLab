@@ -1,0 +1,13 @@
+C:\Users\Stephen Barr (Work)\source\repos\07302020_MovieList\bin\Debug\netcoreapp3.1\07302020_MovieList.exe
+C:\Users\Stephen Barr (Work)\source\repos\07302020_MovieList\bin\Debug\netcoreapp3.1\07302020_MovieList.deps.json
+C:\Users\Stephen Barr (Work)\source\repos\07302020_MovieList\bin\Debug\netcoreapp3.1\07302020_MovieList.runtimeconfig.json
+C:\Users\Stephen Barr (Work)\source\repos\07302020_MovieList\bin\Debug\netcoreapp3.1\07302020_MovieList.runtimeconfig.dev.json
+C:\Users\Stephen Barr (Work)\source\repos\07302020_MovieList\bin\Debug\netcoreapp3.1\07302020_MovieList.dll
+C:\Users\Stephen Barr (Work)\source\repos\07302020_MovieList\bin\Debug\netcoreapp3.1\07302020_MovieList.pdb
+C:\Users\Stephen Barr (Work)\source\repos\07302020_MovieList\obj\Debug\netcoreapp3.1\07302020_MovieList.csprojAssemblyReference.cache
+C:\Users\Stephen Barr (Work)\source\repos\07302020_MovieList\obj\Debug\netcoreapp3.1\07302020_MovieList.AssemblyInfoInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\07302020_MovieList\obj\Debug\netcoreapp3.1\07302020_MovieList.AssemblyInfo.cs
+C:\Users\Stephen Barr (Work)\source\repos\07302020_MovieList\obj\Debug\netcoreapp3.1\07302020_MovieList.csproj.CoreCompileInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\07302020_MovieList\obj\Debug\netcoreapp3.1\07302020_MovieList.dll
+C:\Users\Stephen Barr (Work)\source\repos\07302020_MovieList\obj\Debug\netcoreapp3.1\07302020_MovieList.pdb
+C:\Users\Stephen Barr (Work)\source\repos\07302020_MovieList\obj\Debug\netcoreapp3.1\07302020_MovieList.genruntimeconfig.cache
